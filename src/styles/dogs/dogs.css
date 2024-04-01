@@ -1,0 +1,26 @@
+.dog-picture {
+  display: inline-table;
+  padding: 15px;
+  background-color: aliceblue;
+  border: 20px solid;
+  border-color: currentColor;
+  border-radius: 5px;
+
+  img {
+    width: 300px;
+    height: auto;
+    border-radius: 2px;
+  }
+}
+
+.options-picture {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 370px;
+  margin: 20px auto;
+
+  button {
+    width: 171px;
+  }
+}
