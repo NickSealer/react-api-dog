@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Description:
+This app consumes a few EP from [Dog API](https://dog.ceo/dog-api/) implementing axios.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
